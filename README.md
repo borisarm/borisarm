@@ -28,7 +28,5 @@ Specs in `docs/specs/` before code → an ADR for every decision that would be e
 tests with coverage and mutation gates → CI that actually runs. The rule in anything that touches user
 data: when in doubt, keep both versions.
 
-Some older repositories here are kept on purpose, warts and all — restarts, dead ends and rewrites
-included. That is what learning a craft looks like from the inside.
 
 📫 boris@barquillo.net
