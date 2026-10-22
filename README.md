@@ -1,7 +1,8 @@
 ### Boris Armenta
 
-Former Software Developer. I write native Windows software in **C++20/23** and **.NET** — Win32 shells,
-Direct2D renderers, COM-style plugin runtimes, WinUI 3 clients — and I care as much about the process
+Former Software Developer, now on the bright side of sales.
+
+I write native Windows software in **C++20/23** and **.NET** — Win32 shells, Direct2D renderers, COM-style plugin runtimes, WinUI 3 clients — and I care as much about the process
 around the code as about the code itself.
 
 **Selected work**
